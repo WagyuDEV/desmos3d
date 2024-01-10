@@ -1,6 +1,6 @@
 import re
 
-f = open("./files/output.stl", "r").read()
+f = open("ring.stl", "r").read()
 
 tristr = "\\triangle\\left("
 cnt = 0
