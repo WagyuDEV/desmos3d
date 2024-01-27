@@ -20,3 +20,6 @@ args:
   -h : display this menu (if the -h flag is used, do not supply a source file)
   -b : singal to the program that you are using a binary stl file
 ```
+
+# Forks
+[C Version](https://github.com/GhostDog98/stl-to-desmos) by [GhostDog98](https://github.com/GhostDog98)
