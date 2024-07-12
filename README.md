@@ -27,6 +27,7 @@ args:
 # Example
 
 Just use the copy button on the right of the codeblock and then paste it into [Desmos 3D](https://desmos.com/3d)
+You may have to zoom in a good bit before you can see the model
 
 ```latex
 \triangle\left((0.012165172, 0.009117205, 0.0022843983), (0.011806614, 0.0052856393, 0.0034155147), (0.009332831, 0.0023468407, 2.216571*10^{-5})\right)
